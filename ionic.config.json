@@ -1,0 +1,7 @@
+{
+  "name": "Folluw",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
